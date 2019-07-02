@@ -1,3 +1,3 @@
-### this is a Noe
-## Do u understand that?
-# I`m looking for a job!
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
